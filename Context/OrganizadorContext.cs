@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using TrilhaApiDesafio.Models;
+using AgendamentoTarefas.Models;
 
-namespace TrilhaApiDesafio.Context
+namespace AgendamentoTarefas.Context
 {
     public class OrganizadorContext : DbContext
     {
